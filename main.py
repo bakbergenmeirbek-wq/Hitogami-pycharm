@@ -18,3 +18,6 @@ print(*find_max([1, 2, 1, 2, 1]))
 #3 kdnkjnvkznvkbvkans
 ksdnkasjndasjkndkasjndkajsdn
 
+#4xkjbvkjsdbjksdbfksjdbf
+sdjkfnksjdfnksjdnfsjkdfnj
+sdfknsjkdfnksdfksdnf
