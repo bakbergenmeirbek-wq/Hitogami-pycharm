@@ -169,6 +169,6 @@
 #
 #
 # print("Подозрительных транзакций:", len(suspicious_transactions))
-# print("Подозрительных пользователей:", len(suspicious_users))
+# print("Подозрительных пользователей:", len(suspicious_users))s
 # print("Список подозрительных пользователей:", suspicious_users)
 # print("Общая сумма подозрительных операций:", total_suspicious_amount)
